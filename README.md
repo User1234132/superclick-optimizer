@@ -9,10 +9,14 @@ for the download go to releases
  🚀 GUKA'S EPIC WINDOWS OPTIMIZER V1🚀
 
 credits to CTT(Chris Titus Tech Tool) Oneclick by Quacked
- This script is super aggressive. It deletes a ton of windows stuff, disables services, and kills telemetry. If something breaks, don't cry to me—**make sure you press Y to create a restore point** when the script asks you to. 
+ This script is super aggressive. It deletes a ton of windows stuff, disables services, and kills telemetry. If something breaks, don't cry to me—**make sure you press Y to create a restore point** when the script asks you to.
 
 
+ 
+ [Download the Latest Release Here](https://github.com/User1234132/superclick-optimizer/releases/tag/V1)
 
+
+ 
  What This Script Actually Does
 
   Safety First (Don't Be Dumb)

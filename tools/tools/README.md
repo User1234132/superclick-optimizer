@@ -1,57 +1,47 @@
-# Oneclick
-Oneclick the all-in-one automatic debloat and optimization tool, designed to disable Telemetry, Unnecessary Services, and apply various tweaks to improve the user's performance! Oneclick's primary goal is to debloat all aspects of the user's pc, ranging from basic telemetry to system apps. But why stop there? Oneclick offers a wide array of system tweaks, like GPU Tweaks, Latency Tweaks, Power Tweaks and more.
+superclick-optimizer
+superclick opimzer optimizes your pc for performance and the least amount of delay this is based off of Oneclick and Chris Titus Tech Tool
 
-![Oneclick](https://github.com/QuakedK/Oneclick/assets/124531365/a058ad27-6c3c-401d-911b-700421056cfb)
-![GitHub Release Downloads](https://img.shields.io/github/downloads/QuakedK/Oneclick/total) 
+just a newly made optimizer i was bored and decided to make this and now i have about 1 thousand lines of code in this this is also based off of Oneclick by Quacked and CTT credits to them this isn't the best i could do but this tool has given me extra fps like in rainbow i was getting around 200 fps on average but with this it gave me 250-400 fps but on average it gave me around 300 fps in fortnite i was getting 200 fps before with this i got around 240 average this might not work but i might start actually updating this if it ever gains traction yes this is open source. for any questions my discord username is guka7472.0 with the summer going on i have alot of free time for the download go to releases
 
-Downloads Technically inaccurate as I deleted and reuploaded V7.0 losing around 25-30K+. More info here [Oneclick Download Count](https://github.com/QuakedK/Oneclick/issues/16)
+🚀 GUKA'S EPIC WINDOWS OPTIMIZER V1🚀
 
-# Important
-We recommend running Oneclick on a completely stock and fresh windows install, this way we can guarantee nothing in the system conflicts with or interrupts Oneclick during the tweaking process! However all required apps, drivers, and games should be installed before running Oneclick, in order to prevent any issues of installation after running Oneclick. It's also very important to check and read the [Supported Windows Versions List](https://github.com/QuakedK/Oneclick/blob/main/Help/Supported%20Windows%20Versions.md) as running Oneclick on an unsupported version of Windows can cause issues, bugs and unexpected behavior.
+credits to CTT(Chris Titus Tech Tool) Oneclick by Quacked This script is super aggressive. It deletes a ton of windows stuff, disables services, and kills telemetry. If something breaks, don't cry to me—make sure you press Y to create a restore point when the script asks you to.
 
-It's important to note because of the automatic nature, many of the debloat features and related tweaks aren't optional. This is why we strongly recommend every potential user read the [Unsupported Features List](https://github.com/QuakedK/Oneclick/blob/main/Unsupported%20Features.md) very thoroughly.
+Download the Latest Release Here
 
-We aren't responsible for those who fail to read the supported versions and unsupported features lists before running Oneclick, and we are not liable for any data loss or required Windows reinstallation resulting from improper use.
+What This Script Actually Does
 
-# Transparency
-It's important for us transparency address what Oneclick downloads and logs.
+Safety First (Don't Be Dumb)
 
-Oneclick automatically creates and logs, the operation of itself in order to help an experienced user to see what ran, downloaded and executed successfully. It also provides a way for users to receive quick and easy assistance, by simplying sending the log file to a mod in our [Discord Server](https://discord.gg/8NqDSMzYun). Our logging system is user or locally sided, meaning your Oneclick Logs aren't sent or seen by the Oneclick Team unless you manual choose to go and send the log file yourself. The Oneclick Log file is located in the users C: Drive, or C:\Oneclick Logs\Oneclick Log.txt <3
+Auto-Admin: It automatically restarts itself as Admin.
 
-Oneclick automatically downloads a tools folder at the start, containing various tools, programs and utilities to assist Oneclick in it's usage. A complete breakdown of every downloaded item, along with explanations of their purpose, can be found in the [What's Downloaded List](https://github.com/QuakedK/Oneclick/blob/main/Downloads/V7.5/What%20gets%20downloaded.md) 
+Clutch Restore Point: It forces Windows to turn on System Protection, starts the shadow copy services, and makes a backup point called "Guka's script V1 Restore Point" before it touches anything.
 
-# Usage
-Simply follow the quick and easy steps below ↓
+Gamers > Aesthetics (Max FPS Tweaks)
 
-1. Download [Oneclick](https://github.com/QuakedK/Oneclick/releases/download/optimization/Oneclick-V7.5.bat).
-2. Right-click & run it as admin, and almost everything else is automatic, except user-required inputs.
-3. Once you reach the Extra's section, simply click "Restart" to apply all tweaks!
+Bye-Bye Lag: Turns off GameDVR and background clips to stop random micro-stutters.
 
-# Help
-[Discord Server](https://discord.gg/8NqDSMzYun) | A server for help from other users, mods and the creator.
+Smooth UI: Disables windows transparency, animations, and menu delays. It makes the OS feel way faster.
 
-[Oneclick Fixes](https://github.com/QuakedK/Oneclick/blob/main/Help/Oneclick%20Fixes.md) | A simple list going over the most common fixes for things, like Wi-Fi, Epic Games Laucnher and more.
+Win 10 Menu: Automatically changes that annoying Windows 11 right-click menu back to the classic Windows 10 style.
 
-[Oneclick Recommendations](https://github.com/QuakedK/Oneclick/blob/main/Help/Oneclick%20Recommendations.md) | A simple recommendation list.
+Cleans up the taskbar by hiding Widgets, Copilot, News & Interests, and the useless Search bar.
 
-[Oneclick Revert](https://github.com/QuakedK/Oneclick/blob/main/Help/Oneclick%20Revert.md) | Explains how to revert Oneclick related things.
+Anti-Spying & Privacy
 
-[Power Plan Options](https://github.com/QuakedK/Oneclick/blob/main/Help/Power%20Plan%20Options.md) | Explains the different Power Plans.
+Completely kills Windows Telemetry diagtrack data collection, feedback popups.
 
-[Priority Separation Options](https://github.com/QuakedK/Oneclick/blob/main/Help/Priority%20Separation%20Options.md) | Explains the different Priority Separation Values.
+Blocks Bing search from popping up when you're just trying to search files on your PC.
 
-[Search Removal Options](https://github.com/QuakedK/Oneclick/blob/main/Help/Search%20Removal%20Options.md) | Explains the different Search Removal Options.
+SmartScreen Delete: Completely wipes out smartscreen.exe because it's annoying, but it saves a backup copy to C:\guka747 logs\ just in case.
 
-[Supported Windows Versions List](https://github.com/QuakedK/Oneclick/blob/main/Help/Supported%20Windows%20Versions.md) | Covers the support windows versions.
+Extreme Bloatware Purge
 
-[Timer Resolution Options](https://github.com/QuakedK/Oneclick/blob/main/Help/Timer%20Resolution%20Options.md) | Explains the different Timer Resolution Values.
+edge gets nuked It runs the uninstaller, kills the processes, deletes the program folders, and wipes the registry keys.
 
-[Windows Defender Options](https://github.com/QuakedK/Oneclick/blob/main/Help/Windows%20Defender%20Options.md) | Explains the different Windows Defender Options.
+Useless Services = Disabled:** Disables printers (spooler), Hyper-V virtualization junk, maps, location tracking, and smart cards.
 
-[Oneclick Changelog](https://github.com/QuakedK/Oneclick/blob/main/Changelog.md) | Covers the changes of all Oneclick verisons.
+AppX Mass Murder Deletes a massive list of pre-installed junk like Xbox app, Clipchamp, OneDrive, etc.
 
-
-
-
-
+The AppX cleaner list is stupidly agro If you use the default win 11 or win 10 apps just reinsall or remove them from the batch file
 

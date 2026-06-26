@@ -1,6 +1,7 @@
 # superclick-optimizer
 superclick opimzer optimizes your pc for performance and the least amount of delay this is based off of Oneclick and Chris Titus Tech Tool
 
+![GitHub Downloads (all assets)](https://img.shields.io/github/downloads/User1234132/superclick-optimizer/total?style=for-the-badge&color=green)
 
 just a newly made optimizer i was bored and decided to make this and now i have about 1 thousand lines of code in this this is also based off of Oneclick by Quacked and CTT credits to them this isn't the best i could do but this tool has given me extra fps like in rainbow i was getting around 200 fps on average but with this it gave me 250-400 fps but on average it gave me around 300 fps in fortnite i was getting 200 fps before with this i got around 240 average this might not work but i might start actually updating this if it ever gains traction yes this is open source. for any questions my discord username is guka7472.0 with the summer going on i have alot of free time
 for the download go to releases 

@@ -19,26 +19,26 @@ credits to CTT(Chris Titus Tech Tool) Oneclick by Quacked
  
  What This Script Actually Does
 
-  Safety First (Don't Be Dumb)
-* **Auto-Admin:** It automatically restarts itself as Admin.
-* **Clutch Restore Point:** It forces Windows to turn on System Protection, starts the shadow copy services, and makes a backup point called "Guka's script V1 Restore Point" before it touches anything. 
+  Safety First 
+* detects  if it does not have admin and if it doesnt it asks for pemission withut admin perms it cant run the code correctly
+* makes a restore point before anything to ensure system protection
 
-  Gamers > Aesthetics (Max FPS Tweaks)
-* **Bye-Bye Lag:** Turns off **GameDVR** and background clips to stop random micro-stutters.
-* **Smooth UI:** Disables windows transparency, animations, and menu delays. It makes the OS feel way faster.
-* **Win 10 Menu:** Automatically changes that annoying Windows 11 right-click menu back to the classic Windows 10 style.
+  Maximum fps
+* Bye lag Turns off GAMEDVR and background clips to stop random micro-stutters.
+* Smoother UI Disables windows transparency, animations, and menu delays. It makes the OS feel way faster.
+* Windows 10 rightclick menu Automatically changes that annoying Windows 11 right-click menu back to the classic Windows 10 style.
 * Cleans up the taskbar by hiding Widgets, Copilot, News & Interests, and the useless Search bar.
 
  Anti-Spying & Privacy 
 * Completely kills Windows Telemetry diagtrack data collection, feedback popups.
 * Blocks Bing search from popping up when you're just trying to search files on your PC.
-* **SmartScreen Delete:** Completely wipes out `smartscreen.exe` because it's annoying, but it saves a backup copy to `C:\guka747 logs\` just in case.
+* Completely wipes out `smartscreen.exe` because it's annoying, but it saves a backup copy to `C:\guka747 logs\` just in case.
 
-* Extreme Bloatware Purge
+* removes almost all bloatware
 * edge gets nuked It runs the uninstaller, kills the processes, deletes the program folders, and wipes the registry keys. 
-* Useless Services = Disabled:** Disables printers (spooler), Hyper-V virtualization junk, maps, location tracking, and smart cards.
-* AppX Mass Murder Deletes a massive list of pre-installed junk like Xbox app, Clipchamp, OneDrive, etc.
+* Useless Services = Disabled: Disables printers (spooler), Hyper-V virtualization junk, maps, location tracking, and smart cards.
+* AppX Deletion a massive list of pre-installed junk like Xbox app, Clipchamp, OneDrive, etc.
 
 
-The AppX cleaner list is stupidly agro If you use the default win 11 or win 10 apps just reinsall or remove them from the batch file
+The AppX cleaner list is stupidly agro If you use the default win 11 or win 10 apps just reinsall or remove the code from the batch file
 

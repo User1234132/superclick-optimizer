@@ -9,7 +9,7 @@ for the download go to releases
  🚀 GUKA'S EPIC WINDOWS OPTIMIZER V1🚀
 
 credits to CTT(Chris Titus Tech Tool) Oneclick by Quacked
- This script is super aggressive. It deletes a ton of windows stuff, disables services, and kills telemetry. If something breaks, don't cry to me—**make sure you press Y to create a restore point** when the script asks you to.
+ This script is super aggressive. My script removes, disables services, and kills telemetry. If something breaks ask me on my discordwhich is said above make sure you press Y to create a restore point when the script asks you to.
 
 
  
@@ -19,24 +19,23 @@ credits to CTT(Chris Titus Tech Tool) Oneclick by Quacked
  
  What This Script Actually Does
 
-  Safety First 
-* detects  if it does not have admin and if it doesnt it asks for pemission withut admin perms it cant run the code correctly
+* asks for administartor perms if it didnt have it already
 * makes a restore point before anything to ensure system protection
 
   Maximum fps
-* Bye lag Turns off GAMEDVR and background clips to stop random micro-stutters.
-* Smoother UI Disables windows transparency, animations, and menu delays. It makes the OS feel way faster.
+* Turns off GAMEDVR and background clips to stop random micro-stutters.
+* Disables windows transparency, animations, and menu delays. It makes the OS feel snappier.
 * Windows 10 rightclick menu Automatically changes that annoying Windows 11 right-click menu back to the classic Windows 10 style.
 * Cleans up the taskbar by hiding Widgets, Copilot, News & Interests, and the useless Search bar.
 
  Anti-Spying & Privacy 
 * Completely kills Windows Telemetry diagtrack data collection, feedback popups.
 * Blocks Bing search from popping up when you're just trying to search files on your PC.
-* Completely wipes out `smartscreen.exe` because it's annoying, but it saves a backup copy to `C:\guka747 logs\` just in case.
+* deletes smartscreen and saves a copy to `C:\guka747 logs\`
 
 * removes almost all bloatware
 * edge gets nuked It runs the uninstaller, kills the processes, deletes the program folders, and wipes the registry keys. 
-* Useless Services = Disabled: Disables printers (spooler), Hyper-V virtualization junk, maps, location tracking, and smart cards.
+* Disabled: Disables print spooler, Hyper-V virtualization, maps, location tracking, and smart cards.
 * AppX Deletion a massive list of pre-installed junk like Xbox app, Clipchamp, OneDrive, etc.
 
 
